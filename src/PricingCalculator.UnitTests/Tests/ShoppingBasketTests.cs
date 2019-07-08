@@ -35,7 +35,7 @@
             var result = shoppingBasket.ProductCount;
 
             // Assert
-            Assert.AreEqual(result, productsToCreate);
+            Assert.AreEqual(result, productsToCreate);   
         }
 
         [TestMethod]        
